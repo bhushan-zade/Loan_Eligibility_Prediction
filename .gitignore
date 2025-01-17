@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+../../Documents/Loan Eligible prediction/.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.env
+
+# Data files
+*.csv
+model.pkl
+
+# Streamlit generated files
+.streamlit/
