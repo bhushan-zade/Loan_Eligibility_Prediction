@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 
 def main():
-    st.title('Streamlit Loan Eligibility Prediction App')
+    st.title('Loan Eligibility Prediction App')
 
     left, right = st.columns((2, 2))
 
