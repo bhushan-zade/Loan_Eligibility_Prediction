@@ -17,9 +17,9 @@ This machine learning demo application predicts loan eligibility based on factor
 
 # **`Visit For Details:`**
 
-**`Dataset:`** https://www.kaggle.com/bhu1111/neural-style-transfer-using-tensorflow-hub
+**`Dataset:`** https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset
 
-**`Visit The Web App:`** https://bhushan-zade-neural-style-transfer-app-em5w6x.streamlit.app
+**`Visit The Web App:`** https://loan-eligibility-prediction-4ghq.streamlit.app/
 
 
 
