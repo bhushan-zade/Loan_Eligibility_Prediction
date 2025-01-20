@@ -8,9 +8,7 @@
 
 # **`Loan Eligibility Prediction`** 
 
-Neural Style Transfer (NST) is an optimization technique that involves the utilization of deep convolutional neural network and algorithms to extract the content information from an image (content image) and the style information from another reference image (such as an artwork by a famous painter)—and blend them together so the output image looks like the content image, but “painted” in the style of the style reference image.
- 
-This technique is used by many popular android iOS apps such as Prisma, DreamScope, PicsArt.
+This machine learning demo application predicts loan eligibility based on factors like income, credit history, employment type, marital status, gender, dependents, co-applicant income, loan amount, and residential area. The model uses classification algorithm such- Random Forest to make predictions. A user-friendly interface allows applicants to input their details for instant predictions, while model performance is evaluated using accuracy, precision, recall, and F1-score. This project demonstrates the application of data-driven decision-making in the financial sector.
 
 
 
