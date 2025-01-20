@@ -13,7 +13,7 @@ This machine learning demo application predicts loan eligibility based on factor
 #
 
 
-<img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/Loan_Eligibility_Prediction/blob/main/Loan%20Eligibility%20Prediction.png">
+<img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/Loan_Eligibility_Prediction/blob/main/Loan%20Eligibility%20Prediction%20App.png">
 
 # **`Visit For Details:`**
 
