@@ -10,7 +10,7 @@
 
 This machine learning demo application predicts loan eligibility based on factors like income, credit history, employment type, marital status, gender, dependents, co-applicant income, loan amount, and residential area. The model uses classification algorithm such- Random Forest to make predictions. A user-friendly interface allows applicants to input their details for instant predictions, while model performance is evaluated using accuracy, precision, recall, and F1-score. This project demonstrates the application of data-driven decision-making in the financial sector.
 
-
+#
 
 
 <img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/Loan_Eligibility_Prediction/blob/main/Loan%20Eligibility%20Prediction.png">
