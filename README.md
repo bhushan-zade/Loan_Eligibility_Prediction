@@ -1,10 +1,8 @@
-<img src=https://img.shields.io/badge/build%20with-python-yellow><img src="https://img.shields.io/badge/-streamlit-orange"> <img src="https://img.shields.io/badge/deployed%20in-Streamlit Cloudu-blue"> <img src="https://img.shields.io/badge/domain-Deep%20Learning-orange%20.svg" ><img src="https://img.shields.io/badge/Computer%20Vision-orange.svg"><img src="https://img.shields.io/badge/%20Transfer%20Learning%20-%20Pretrained%20Model-orange%20.svg"><img src="https://img.shields.io/badge/Tensorflow%20hub-orange.svg">
-
 <img src="https://img.shields.io/badge/build%20with-python-yellow"><img src="https://img.shields.io/badge/-machine%20learning-brightgreen"> <img src="https://img.shields.io/badge/-streamlit-orange">
 <img src="https://img.shields.io/badge/deployed%20in-Streamlit%20Cloud-blue">
 <img src="https://img.shields.io/badge/domain-Finance-orange">
 <img src="https://img.shields.io/badge/dataset-Kaggle-red">
-<img src="https://img.shields.io/badge/-Streamlit-orange">
+<img src="https://img.shields.io/badge/-Loan Eligible Dataset-orange">
 
 
 
