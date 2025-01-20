@@ -11,7 +11,7 @@ This technique is used by many popular android iOS apps such as Prisma, DreamSco
 **`Visit The Web App:`**  https://bhushan-zade-neural-style-transfer-app-em5w6x.streamlit.app
 
 
-<img align="" alt="coding" width="900" src= "https://user-images.githubusercontent.com/118050962/217676767-fd44f8d3-1d35-4735-839e-098f0ba185f2.PNG">
+<img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/Loan_Eligibility_Prediction/blob/main/Loan%20Eligibility%20Prediction.png">
 
 # **`Visit For Details:`**
 
