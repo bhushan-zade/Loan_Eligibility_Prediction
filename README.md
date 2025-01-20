@@ -4,8 +4,9 @@
 <img src="https://img.shields.io/badge/-machine%20learning-brightgreen">
 <img src="https://img.shields.io/badge/deployed%20in-Streamlit%20Cloud-blue">
 <img src="https://img.shields.io/badge/domain-Finance-orange">
-<img src="https://img.shields.io/badge/dataset-Custom%20Dataset-red">
+<img src="https://img.shields.io/badge/dataset-Kaggle-red">
 <img src="https://img.shields.io/badge/-Streamlit-orange">
+
 
 
 # **`Loan Eligibility Prediction`** 
