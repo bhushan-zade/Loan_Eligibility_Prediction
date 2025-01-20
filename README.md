@@ -8,16 +8,13 @@ Neural Style Transfer (NST) is an optimization technique that involves the utili
 This technique is used by many popular android iOS apps such as Prisma, DreamScope, PicsArt.
 
 
-**`Visit The Web App:`**  https://bhushan-zade-neural-style-transfer-app-em5w6x.streamlit.app
 
 
 <img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/Loan_Eligibility_Prediction/blob/main/Loan%20Eligibility%20Prediction.png">
 
 # **`Visit For Details:`**
 
-**`Model Applied:`** https://www.kaggle.com/bhu1111/neural-style-transfer-using-tensorflow-hub
-
-**`Model Streamlit Python-APP(app.py):`** https://github.com/bhushan-zade/Neural-Style-Transfer/blob/main/app.py
+**`Dataset:`** https://www.kaggle.com/bhu1111/neural-style-transfer-using-tensorflow-hub
 
 **`Visit The Web App:`** https://bhushan-zade-neural-style-transfer-app-em5w6x.streamlit.app
 
